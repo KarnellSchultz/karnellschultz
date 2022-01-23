@@ -1,3 +1,3 @@
-### Hello 🤙🏾 - I'm Karnell, a developer and blogger.
+# Hello 🤙🏾 - I'm Karnell, a developer with a blog.
 
-[KarnellSchultz.com](https://karnellschultz.com/)
+## [KarnellSchultz.com](https://karnellschultz.com/)
